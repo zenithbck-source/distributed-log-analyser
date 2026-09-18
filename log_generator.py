@@ -25,4 +25,4 @@ def generate_log_chunks(total_jobs, num_chunks, seed=42):
 
 
 if __name__ == "__main__":
-    generate_log_chunks(20, 4)
+    generate_log_chunks(1000, 4)
